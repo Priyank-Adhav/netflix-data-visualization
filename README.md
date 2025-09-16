@@ -8,13 +8,13 @@ Kaggle.\
 The dataset contains metadata about titles available on Netflix,
 including:
 
--   **Type**: Movie or TV Show\
--   **Title**: Name of the content\
--   **Director & Cast**: People involved in production\
--   **Country**: Country of origin\
--   **Release Year**: Year the content was released\
--   **Rating**: TV rating (e.g., TV-MA, PG-13)\
--   **Duration**: Length in minutes or number of seasons\
+-   **Type**: Movie or TV Show
+-   **Title**: Name of the content
+-   **Director & Cast**: People involved in production
+-   **Country**: Country of origin
+-   **Release Year**: Year the content was released
+-   **Rating**: TV rating (e.g., TV-MA, PG-13)
+-   **Duration**: Length in minutes or number of seasons
 -   **Listed In**: Genres/categories of the content
 
 ------------------------------------------------------------------------
@@ -67,12 +67,12 @@ audiences globally.
 ## Key Insights
 
 -   Netflix hosts **more movies than TV shows**, but TV shows have grown
-    steadily in recent years.\
+    steadily in recent years.
 -   The platform has **rapidly expanded after 2010**, especially
-    post-2015.\
+    post-2015.
 -   **TV-MA (mature audience)** is the most common rating, suggesting a
-    focus on adult-oriented content.\
--   **USA, India, and the UK** dominate Netflix content production.\
+    focus on adult-oriented content.
+-   **USA, India, and the UK** dominate Netflix content production.
 -   **Documentaries and stand-up comedy** are among the most represented
     genres, alongside traditional drama and international TV.
 
