@@ -78,25 +78,6 @@ audiences globally.
 
 ------------------------------------------------------------------------
 
-## How to Run This Project
-
-1.  Clone the repository:
-
-    ``` bash
-    git clone <your-repo-url>
-    cd mini-task-3
-    ```
-
-2.  Open the Jupyter Notebook:
-
-    ``` bash
-    jupyter notebook Mini_Task_3.ipynb
-    ```
-
-3.  Run all cells to generate visualizations.
-
-------------------------------------------------------------------------
-
 ## 📂 Project Structure
 
     📂 mini-task-3
